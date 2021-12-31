@@ -5,3 +5,4 @@ A verdade é que a Revolução Tecnológica e o atual paradigma das redes sociai
 Assim, o nosso projecto visa a organização de um programa que reúna pessoas de diversas faixas etárias – jovens adultos (18–27 anos), adultos (28–54 anos) e idosos (+55 anos). Este consistirá na organização de atividades inseridas no âmbito de campos de férias, situados em vários pontos do país, em parques naturais, reservas etc.. Este programa visa sensibilizar as pessoas sobre a problemática em questão e promover o envolvimento e a coesão social das diversas faixas etárias, através da realização de atividades e workshops que promovem a partilha de informação e cooperação entre os participantes. O foco será em promover hábitos de vida mais saudáveis focados na saúde mental e física, com a coordenação por profissionais destas áreas em questão. 
 
 HEROKU LINK: https://abettercamp.herokuapp.com/
+GITHUB CODIGO: https://github.com/rafaelcsants/A_Better_Camp_Code
